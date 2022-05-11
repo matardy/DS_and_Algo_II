@@ -1,5 +1,12 @@
 package PatternMatchingAlgo;
 
+/***
+ * Autores:
+ * Gutemberg S. Mendoza
+ * Jeimmy Yulianna Eche Salazar
+ * Oscar Castillo
+ */
+
 public class BruteForce {
     public static void findBrute(String text, String pattern){
 
